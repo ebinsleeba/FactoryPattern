@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "cv2OUnjiNwRFqVdvoGk2IhX4qOH+LMj6kxQqFvVnU4YkzTdW6IVp2JKG0ZwVFWrDpCuSoOMG/BmdmzNgmk3VNg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\ebins\\TUS\\SofwareDesign\\SampleApplications\\SDAssignment\\SDAssignment\\SDAssignment.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to read project information for 'SDAssignment': Invalid framework identifier ''."
+    }
+  ]
+}

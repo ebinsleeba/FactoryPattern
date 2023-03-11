@@ -1,0 +1,30 @@
+[
+  {
+    "key": "mscsoft",
+    "value": "Service Oriented Architecture 5 - 12/13/2022 - 9:00-11:30"
+  },
+  {
+    "key": "mscsoft",
+    "value": "Computer Networks and Telecommunications 5 - 12/14/2022 14:00-16:30"
+  },
+  {
+    "key": "mscsoft",
+    "value": "Data Science 5 - 12/16/2022 - 14:00-16:30"
+  },
+  {
+    "key": "mscsoft",
+    "value": "Agile, Build & Delivery 5 - 12/19/2022 14:00-16:30"
+  },
+  {
+    "key": "mscsoft",
+    "value": "Software Design 5 - 12/22/2022 - 9:00-11:30"
+  },
+  {
+    "key": "mscai",
+    "value": "Applied Scripting Languages - 12/10/2022 - 10:00-12:00"
+  },
+  {
+    "key": "msccloud",
+    "value": "Container Design and Deployment - 12/10/2022 14:00-16:00"
+  }
+]

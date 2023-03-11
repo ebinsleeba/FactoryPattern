@@ -1,0 +1,33 @@
+{
+  "version": 3,
+  "targets": {},
+  "libraries": {},
+  "projectFileDependencyGroups": {},
+  "packageFolders": {
+    "C:\\Users\\ebins\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ebins\\TUS\\SofwareDesign\\SampleApplications\\SDAssignment\\SDAssignment\\SDAssignment.csproj",
+      "projectPath": "C:\\Users\\ebins\\TUS\\SofwareDesign\\SampleApplications\\SDAssignment\\SDAssignment\\SDAssignment.csproj",
+      "packagesPath": "C:\\Users\\ebins\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ebins\\TUS\\SofwareDesign\\SampleApplications\\SDAssignment\\SDAssignment\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ebins\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to read project information for 'SDAssignment': Invalid framework identifier ''."
+    }
+  ]
+}
